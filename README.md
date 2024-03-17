@@ -6,7 +6,7 @@
     PIP: use latest version
     keras version 2.15.0
 
-    #install packages if you don't have it preinstall in your system
+    #Install packages if they are not preinstalled on your system.
     pip install PyQt5
     pip install opencv-python
     pip install mediapipe
