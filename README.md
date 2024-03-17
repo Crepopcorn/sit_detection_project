@@ -1,5 +1,5 @@
 # sit_detection_project
-###This project is for my Final Year Project.
+### This project is for my Final Year Project.
 
     Python: version 3.8 - 3.11
     OS: Desktop: Windows, Mac, Linux. IoT: Raspberry OS 64-bit.
@@ -15,7 +15,7 @@
 
 1) Connect a secondary camera or webcam to the user's computer, which already has its own built-in camera.
 
-2)The second camera should be positioned on either the left or right side of the user.
+2) The second camera should be positioned on either the left or right side of the user.
 
 3) Download the "main_code" folder to the user's computer.
 
