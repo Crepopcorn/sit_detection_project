@@ -22,3 +22,5 @@
 4) Verify whether the system being used by the user meets the specified requirements. In certain situations, the user may need to either upgrade or downgrade the system in order to align with the requirements.
 
 5) Run the pyqt_main.py code to display the programme.
+
+For reference, you can check the run_video.mp4 in this github repository to see the demo of the GUI.
