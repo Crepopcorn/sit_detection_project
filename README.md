@@ -22,5 +22,10 @@
 4) Verify whether the system being used by the user meets the specified requirements. In certain situations, the user may need to either upgrade or downgrade the system in order to align with the requirements.
 
 5) Run the pyqt_main.py code to display the programme.
+main window
+![pyqt_main](https://github.com/Crepopcorn/sit_detection_project/assets/112138670/9e7394ba-e553-404c-a713-abebfac0d4e7)
+
+settings dialog
+![pyqt_settings](https://github.com/Crepopcorn/sit_detection_project/assets/112138670/e129f578-bf55-4245-bac0-198d19cbc033)
 
 For references, you can check the output video/example_video.mp4 in this github repository to see the demo of this GUI programme.
