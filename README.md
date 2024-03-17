@@ -5,6 +5,7 @@
     OS: Desktop: Windows, Mac, Linux. IoT: Raspberry OS 64-bit.
     PIP: use latest version
     keras version 2.15.0
+    tensorflow version 2.15.0
 
     #Install packages if they are not preinstalled on your system.
     pip install PyQt5
