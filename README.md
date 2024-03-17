@@ -23,4 +23,4 @@
 
 5) Run the pyqt_main.py code to display the programme.
 
-For references, you can check the example_video.mp4 in this github repository to see the demo of this GUI programme.
+For references, you can check the output video/example_video.mp4 in this github repository to see the demo of this GUI programme.
