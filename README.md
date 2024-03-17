@@ -23,11 +23,11 @@
 
 5) Run the pyqt_main.py code to display the programme.
 
-main window:
+main window layout:
 
 ![pyqt_main](https://github.com/Crepopcorn/sit_detection_project/assets/112138670/9e7394ba-e553-404c-a713-abebfac0d4e7)
 
-settings dialog:
+settings dialog layout:
 
 ![pyqt_settings](https://github.com/Crepopcorn/sit_detection_project/assets/112138670/e129f578-bf55-4245-bac0-198d19cbc033)
 
