@@ -19,6 +19,10 @@ Python environment with PyQt5, OpenCV, MediaPipe, and other dependencies install
     pip install ultralytics
     pip install opencv-contrib-python
 
+Camera Setup: Position two webcams such that one captures your front view and the other captures your side view. These will be referred to as "Camera 1 (Front View)" and "Camera 2 (Side View)" within the application.
+
+### Getting Started
+
 1) Connect a secondary camera or webcam to the user's computer, which already has its own built-in camera.
 
 2) The second camera should be positioned on either the left or right side of the user.
@@ -28,6 +32,8 @@ Python environment with PyQt5, OpenCV, MediaPipe, and other dependencies install
 4) Verify whether the system being used by the user meets the specified requirements. In certain situations, the user may need to either upgrade or downgrade the system in order to align with the requirements.
 
 5) Run the pyqt_main.py code to display the programme.
+
+6) Start the application. You will be greeted by a splash screen followed by the main window of the Sit Posture Recognition System.
 
 main window layout:
 
