@@ -21,7 +21,7 @@ Python environment with PyQt5, OpenCV, MediaPipe, and other dependencies install
 
 Camera Setup: Position two webcams such that one captures your front view and the other captures your side view. These will be referred to as "Camera 1 (Front View)" and "Camera 2 (Side View)" within the application.
 
-## Getting Started
+### Getting Started
 
 1) Connect a secondary camera or webcam to the user's computer, which already has its own built-in camera.
 
