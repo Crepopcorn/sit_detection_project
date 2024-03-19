@@ -1,6 +1,12 @@
 # sit_detection_project
 ### This project is for my Final Year Project.
 
+System Requirements
+
+A computer with a minimum of two webcams (for front and side view analysis).
+
+Python environment with PyQt5, OpenCV, MediaPipe, and other dependencies installed as outlined in the initial setup steps.
+
     Python: version 3.8 - 3.11
     OS: Desktop: Windows, Mac, Linux. IoT: Raspberry OS 64-bit.
     PIP: use latest version
