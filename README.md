@@ -1,5 +1,4 @@
 # sit_detection_project
-## This project is for my Final Year Project.
 
 ### System Requirements
 
