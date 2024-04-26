@@ -36,7 +36,7 @@ Camera Setup: Position two webcams such that one captures your front view and th
 
 main window layout:
 
-![pyqt_main](https://github.com/Crepopcorn/sit_detection_project/assets/112138670/9e7394ba-e553-404c-a713-abebfac0d4e7)
+![output_pyqt_main](https://github.com/Crepopcorn/sit_detection_project/blob/main/GUI_layout/output_pyqt_main.jpg)
 
 settings dialog layout:
 
